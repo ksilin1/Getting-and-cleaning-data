@@ -1,8 +1,0 @@
-CODEBOOK FOR THE TIDY DATA
-
-variable name: description, values/coding, [unit]
-
-id: subject id, 1-30
-activity: activity, 1= WALKING, 2= WALKING_UPSTAIRS, 3 = WALKING_DOWNSTAIRS, 4= SITTING, 5 = STANDING, 6 = LAYING,
-mean: mean
-sd: standard deviation
